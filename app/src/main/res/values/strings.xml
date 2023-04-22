@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">testpoject</string>
+    <string-array name ='songs'>
+    <item>Я-русский</item>
+    <item>Мы</item>
+    <item>Самый русский хит</item>
+    <item>Встанем</item>
+
+    </string-array>
+</resources>
